@@ -1,5 +1,5 @@
 # FSE-2012-UMLtoCSPUOST
-A Tool for Efficient Verification of UML/OCL Class Diagrams Through Model Slicing
+A Tool for Efficient Verification of UML/OCL Class Diagrams Through Model Slicing.
 
 ***
 
